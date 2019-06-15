@@ -1,0 +1,23 @@
+
+
+body {
+    background: yellow;
+}
+
+#app1 {
+    width: 500px;
+    height: 500px;
+    background-image:url("../image/logo.png");
+    background-repeat: no-repeat;
+}
+
+
+#app2 {
+    width: 1500px;
+    height: 500px;
+    background-image:url("../image/webpack.png");
+    background-repeat: no-repeat;
+}
+
+
+
